@@ -1,1 +1,1 @@
-web: gunicorn LoaanApp:app
+web: gunicorn LoanApp:app
